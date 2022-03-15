@@ -1,0 +1,59 @@
+body{
+    background: #333333;
+    color: #fff;
+
+}
+.navbar{
+    border-bottom: 3px solid #0178CE ;
+    background-color: #536359;
+    opacity: 0.7;
+}
+#Home-section{
+background: url(../img/home.jpg ) no-repeat center top;
+background-size: cover;
+background-attachment: fixed;
+min-height: 700px;
+
+}
+#Home-section .dark-overlay{
+background: rgba(0, 0, 0, 0.7);
+min-height: 700px;
+}
+#Home-section .home-inner{
+padding-top: 150px;
+padding-bottom: 50px;
+
+}
+#Home-section .fa-check{
+color: #0178CE;
+background: #fff;
+padding: 4px;
+font-size: 30px;
+border-radius: 5px;
+
+}
+#Explore-main-section .fa-check{
+    color: #0178CE;
+    background: rgb(107, 86, 86);
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+    
+    }
+ #Create--main-section .fa-check{
+    color: #0178CE;
+    background-color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+
+ }
+ #Sheare--mine-section .fa-check{
+    font-size: 30px;
+    color: #fff;
+    background: #0a0a0a;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+ }
